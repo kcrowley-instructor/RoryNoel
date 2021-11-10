@@ -30,3 +30,7 @@ print ('result1')
 
 >create block quote
 
+
+[link](google.com)
+
+![image](google.com)
